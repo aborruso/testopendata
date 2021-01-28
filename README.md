@@ -2,6 +2,8 @@
 
 I dati e i documenti che i soggetti di cui all’articolo 2, comma 2, pubblicano, con qualsiasi modalità, senza l’espressa adozione di una licenza di cui all’articolo 2, comma 1, lettera h), del decreto legislativo 24 gennaio 2006, n. 36, si intendono rilasciati come dati di tipo aperto ai sensi all’articolo 1, comma 1, lettere l-bis) e l-ter), del presente Codice, ad eccezione dei casi in cui la pubblicazione riguardi dati personali del presente Codice. PERIODO SOPPRESSO DAL D.LGS. 13 DICEMBRE 2017, N. 217.
 
+Il file è [qui](covidProvinciaPalermo.csv)
+
 ## Titolo 2
 
 I dati e i documenti che i soggetti di cui all’articolo 2, comma 2
