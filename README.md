@@ -4,6 +4,10 @@ I dati e i documenti che i soggetti di cui all’articolo 2, comma 2, pubblicano
 
 Il file è [qui](covidProvinciaPalermo.csv)
 
+| Nome cmapio | des |
+|---| ---|
+| città | nomi città|
+
 ## Titolo 2
 
 I dati e i documenti che i soggetti di cui all’articolo 2, comma 2
